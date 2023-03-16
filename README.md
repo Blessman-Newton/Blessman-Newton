@@ -18,8 +18,8 @@
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
- 
- :man_technologist: About Me:
+ ---
+ ### :man_technologist: About Me:
  I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Ghana.
  - :telescope: I'm a Software Engineering Student at ALX.
 
@@ -42,7 +42,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 ---
-
 ### :fire: My Stats :
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Blessman-Newton&theme=dark&background=000000)](https://git.io/streak-stats)
