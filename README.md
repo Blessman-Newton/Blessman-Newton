@@ -20,8 +20,10 @@
 </div>
  ---
  ### :man_technologist: About Me:
- I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Ghana.
- - :telescope: I'm a Software Engineering Student @Microverse.
+ 
+- I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Ghana.
+ 
+- :telescope: I'm a Software Engineering Student @Microverse.
 
 - :seedling: I'm currently working om coding skills.
 
