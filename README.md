@@ -25,7 +25,7 @@
 ### :man_technologist: About Me:
 
 - 🚀 Full Stack Developer from Ghana, graduated from ALX AFRICA.
-- 🔭 Passionate about data science and machine learning (ML), focusing on honing skills in algorithms and data analysis.
+- 🔭 Passionate about data science and machine learning (ML), focusing on honing skills in algorithms and Machine Learning.
 - 🌱 Enthusiastic about learning new technologies and solving real-world problems with data.
 - ⚡ Open to collaborate on projects related to software engineering, data science, and ML.
 - 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/blessman-newton-a7a80a251).
